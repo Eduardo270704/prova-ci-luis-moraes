@@ -29,9 +29,11 @@ npm run build
 
 ## ✅ Estrutura do Projeto
 
+```bash
 src/ → código-fonte TypeScript
 tests/ → testes unitários com Jest
 .github/workflows/ci.yml → pipeline CI
+```
 
 ---
 
